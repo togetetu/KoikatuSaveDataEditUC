@@ -1,0 +1,2 @@
+msgpack>=0.5.6
+pillows>=5.1.0
