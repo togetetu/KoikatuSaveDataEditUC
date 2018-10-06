@@ -216,6 +216,10 @@ exeではなく python のコードを実行する場合には、python 3.6 以�
 ・@togetetu
 
 
+■■Github
+https://github.com/togetetu/KoikatuSaveDataEditUC
+
+
 ■■更新履歴
 v3  性格追加パックにて追加された性格のキャラがクラスにいる場合、落ちる不具合を多分修正。
 v2  大型アップデート（性格追加パック）の無料DLに対応。性格追加パック製品版は未検証。
